@@ -328,7 +328,7 @@ st.set_page_config(page_title="AI Code Reviewer", page_icon="🔍", layout="wide
 st.markdown("## 🔍 AI Code Reviewer")
 st.markdown(
     "Paste or upload your Python code to get an instant analysis using "
-    "**Pylint**, **Flake8**, and **Bandit**, followed by an AI-powered review from **AWS Bedrock (Claude)**."
+    "**Pylint**, **Flake8**, and **Bandit**, followed by an AI-powered code review."
 )
 st.divider()
 
